@@ -1,0 +1,10 @@
+# This is a single-comment line
+
+/// This
+is a
+multi-comment line ///
+
+int function test() {
+  print "hi!";
+  return 2 + 1;
+}
